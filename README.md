@@ -10,3 +10,10 @@ ln -s ~/dotfiles/git ~/.config/git
 ln -s ~/dotfiles/.zshrc ~/.zshrc
 ln -s ~/dotfiles/.p10k.zsh ~/.p10k.zsh
 ```
+
+- zsh, oh-my-zsh
+- powerlevel10k
+- neovim
+- tmux
+- gitignore
+
