@@ -122,4 +122,4 @@ eval "$(rbenv init -)"
 
 alias vi="nvim"
 alias vim="nvim"
-alias view="nvim -R
+alias view="nvim -R"
